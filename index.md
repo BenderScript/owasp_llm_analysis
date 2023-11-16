@@ -25,5 +25,7 @@ Welcome to our collection of security documentation. Below, you will find links 
 - [Risk Mitigation for Enterprise Use of Open Source LLMs](./use_cases/open_source/risk_mitigation.md)
   - This document outlines risk analysis and mitigation strategies for enterprises using open-source Large Language Models, such as the LLaMA2 model.
 
-  
+- [Pipeline Boost in SageMaker](./use_cases/sagemaker/pipeline_boost.png)
+  - This image illustrates the `pipeline_boost` process within SageMaker, demonstrating the optimization of workflows in the context of LLM applications.
+
 Please click on the links to navigate to the respective documents for more detailed information.
