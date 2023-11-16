@@ -1,4 +1,4 @@
-# Large Language Model Security Documentation
+# Large Language Model Security Analysis
 
 Welcome to our repository dedicated to the security considerations of Large Language Models (LLMs). This repository houses a comprehensive collection of documents addressing various aspects of LLM security, application security, and practical use cases.
 
